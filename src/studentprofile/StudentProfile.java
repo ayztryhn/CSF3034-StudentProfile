@@ -1,9 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package studentprofile;
-
 /***************************************************************************************
  * Author : Nur Azyyatie Rahana Binti Abdul Rahman
  * Project Name : StudenProfile
@@ -13,14 +8,12 @@ package studentprofile;
  * Version : 1.0
  ***************************************************************************************/
 public class StudentProfile {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
        
  System.out.println("Name: Nur Azyyatie Rahana Binti Abdul Rahman");
  System.out.println("Student ID: S86052");
  System.out.println("Programme: Bachelor of Computer Science(Software Engineering)");
- }
+ System.out.println("Semester: Semester 1");
+ System.out.println("Favourite Language: Java");
+  }
 }
