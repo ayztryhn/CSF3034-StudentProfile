@@ -13,7 +13,6 @@ public class StudentProfile {
  System.out.println("Name: Nur Azyyatie Rahana Binti Abdul Rahman");
  System.out.println("Student ID: S86052");
  System.out.println("Programme: Bachelor of Computer Science(Software Engineering)");
- System.out.println("Semester: Semester 1");
- System.out.println("Favourite Language: Java");
+
   }
 }
